@@ -1,0 +1,21 @@
+/* css code goes here */
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    height: 320px;
+    width: 320px;
+    box-shadow: 5px 5px 10px green; 
+    border-radius: 5px;
+    
+}
+.box{
+    border: 3px solid springgreen;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 10px; 
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
